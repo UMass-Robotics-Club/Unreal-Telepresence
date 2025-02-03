@@ -30602,6 +30602,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rightArm: {fileID: 1340758186}
   leftArm: {fileID: 511422838}
+  rightIKTarget: {fileID: 126537728}
+  leftIKTarget: {fileID: 490391986}
+  maxRotationAngle: 120
 --- !u!1 &596261470
 GameObject:
   m_ObjectHideFlags: 0
@@ -52861,7 +52864,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!81 &1085582763
 AudioListener:
   m_ObjectHideFlags: 0
