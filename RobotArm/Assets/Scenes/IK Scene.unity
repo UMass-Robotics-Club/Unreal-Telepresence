@@ -30712,15 +30712,15 @@ MonoBehaviour:
   rightElbow: {fileID: 556645176}
   rightUpperForearm: {fileID: 1760685824}
   rightLowerForearm: {fileID: 861990777}
-  rightWrist: {fileID: 624782366}
+  rightWrist: {fileID: 0}
   leftArm: {fileID: 511422838}
   leftElbow: {fileID: 1228859918}
-  leftUpperForearm: {fileID: 437632835}
+  leftUpperForearm: {fileID: 1156484254}
   leftLowerForearm: {fileID: 437632835}
   leftWrist: {fileID: 113952342}
   rightIKTarget: {fileID: 126537728}
   leftIKTarget: {fileID: 490391986}
-  headset: {fileID: 556797005}
+  headset: {fileID: 0}
   maxRotationAngle: 360
 --- !u!1 &596261470
 GameObject:
