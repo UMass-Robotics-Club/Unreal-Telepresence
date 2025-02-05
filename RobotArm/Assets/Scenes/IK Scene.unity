@@ -9179,14 +9179,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 184515204}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.34581664, y: 0.6466057, z: -0.5382824, w: 0.41540837}
+  m_LocalRotation: {x: 0.26890814, y: 0.6821851, z: -0.5826139, w: 0.3505325}
   m_LocalPosition: {x: 0.0013297413, y: 0.000108691864, z: 0.0016999574}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 778506204}
   m_Father: {fileID: 113952343}
-  m_LocalEulerAnglesHint: {x: 79.553, y: 114.563, z: 0}
+  m_LocalEulerAnglesHint: {x: 79.553, y: 114.563, z: -13.25}
 --- !u!1 &185680161
 GameObject:
   m_ObjectHideFlags: 0
@@ -30712,16 +30712,19 @@ MonoBehaviour:
   rightElbow: {fileID: 556645176}
   rightUpperForearm: {fileID: 1760685824}
   rightLowerForearm: {fileID: 861990777}
-  rightWrist: {fileID: 0}
+  rightWristVertical: {fileID: 1743779508}
+  rightWristHorizontal: {fileID: 624782366}
   leftArm: {fileID: 511422838}
   leftElbow: {fileID: 1228859918}
   leftUpperForearm: {fileID: 1156484254}
   leftLowerForearm: {fileID: 437632835}
-  leftWrist: {fileID: 113952342}
+  leftWristVertical: {fileID: 184515204}
+  leftWristHorizontal: {fileID: 113952342}
   rightIKTarget: {fileID: 126537728}
   leftIKTarget: {fileID: 490391986}
-  headset: {fileID: 0}
+  headset: {fileID: 556797005}
   maxRotationAngle: 360
+  rotationSensitivity: 200
 --- !u!1 &596261470
 GameObject:
   m_ObjectHideFlags: 0
